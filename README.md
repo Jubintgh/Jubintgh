@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jubintgh
-- I'm a Software developer and computer enthusiast
+- I'm a Software Engineer at Microsoft
 - My portfolio: https://jubintgh.github.io/
 - Lets connect!: https://www.linkedin.com/in/jubintaghdir/
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubintgh&show_icons=true&locale=en" alt="jubintgh" /></p> -->
